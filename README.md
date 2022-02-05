@@ -1,6 +1,6 @@
 ### Hi there, I'm Nutt Chairatana 👋
 
-[![Website](.website-btn.png)](https://www.nuttchai.com)
+[![Website](website-btn.png)](https://www.nuttchai.com)
 
 ## I'm a fresh full stack developer!!
 
