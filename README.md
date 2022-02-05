@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nuttchai.com" width="21px" src="./icons/world.png" />][website]
-[<img align="left" alt="nuttchai | LinkedIn" width="21px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="nuttchai | Facebook" width="21px" src="./icons/facebook.png" />][linkedin]
-[<img align="left" alt="nuttchai | Medium" width="21px" src="./icons/medium.png" />][linkedin]
+[<img align="left" alt="nuttchai.com" width="20px" src="./icons/world.png" />][website]
+[<img align="left" alt="nuttchai | LinkedIn" width="20px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="nuttchai | Facebook" width="20px" src="./icons/facebook.png" />][linkedin]
+[<img align="left" alt="nuttchai | Medium" width="20px" src="./icons/medium.png" />][linkedin]
 
 [website]: https://www.nuttchai.com
 [linkedin]: https://www.linkedin.com/in/nuttchai/
