@@ -1,6 +1,9 @@
 ### Hi there, I'm Nutt Chairatana 👋
 
 [<img align="left" alt="nuttchai.com" height="30px" src="./website-btn.png" />][website]
+<br />
+
+---
 
 ## I'm a fresh full stack developer!!
 
