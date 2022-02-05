@@ -1,4 +1,4 @@
-## Hi there, I'm Nutt Chairatana 👋
+## Hi there 👋
 
 [<img align="left" alt="nuttchai.com" height="22px" src="./icons/website-btn.png" />][website]
 <br />
