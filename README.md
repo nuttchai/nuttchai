@@ -1,6 +1,6 @@
 ## Hi there, I'm Nutt Chairatana 👋
 
-[<img align="left" alt="nuttchai.com" height="25px" src="./website-btn.png" />][website]
+[<img align="left" alt="nuttchai.com" height="25px" src="./icons/website-btn.png" />][website]
 <br />
 
 ## I'm a fresh full stack developer!
@@ -10,8 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nuttchai.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nuttchai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nuttchai.com" width="22px" src="./icons/world.png" />][website]
+[<img align="left" alt="nuttchai | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="nuttchai | Facebook" width="22px" src="./icons/facebook.png" />][linkedin]
+[<img align="left" alt="nuttchai | Medium" width="22px" src="./icons/medium.png" />][linkedin]
 
 [website]: https://www.nuttchai.com
 [linkedin]: https://www.linkedin.com/in/nuttchai/
