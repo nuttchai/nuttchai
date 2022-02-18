@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[<img align="left" alt="nuttchai.com" height="22px" src="./icons/website-btn.png" />][website]
+[<img align="left" alt="nuttchai.com" height="21px" src="./icons/website-btn.png" />][website]
 <br />
 
 ## I'm a fresh full stack developer!
