@@ -3,7 +3,7 @@
 [<img align="left" alt="nuttchai.com" height="21px" src="./icons/website-btn.png" />][website]
 <br />
 
-## I'm a fresh full stack developer!
+## I'm a fresh software engineer!
 
 - 🔭 I’m studying at King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my development skills!
