@@ -7,7 +7,7 @@
 
 - 🔭 I’m studying at King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my development skills!
-- 🥅 2022 Goals: Contribute Open Source projects
+- 🥅 2022 Goals: Contribute Open Source projects & create shortest-path project
 
 ### Connect with me:
 
