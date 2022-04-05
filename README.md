@@ -8,6 +8,12 @@
 - 🔭 I’m studying at King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my development skills!
 - 🥅 2022 Goals: Contribute Open Source Projects & Create Shortest-Path Project
+  <br />
+
+## GitHub Statistic:
+
+![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
+![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
 
 ### Connect with me:
 
@@ -18,11 +24,6 @@
 
 [website]: https://www.nuttchai.com
 [linkedin]: https://www.linkedin.com/in/nuttchai/
-
-### GitHub Statistic:
-
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
 
 <!--
 **nuttchai/nuttchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
