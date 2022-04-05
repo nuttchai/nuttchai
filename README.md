@@ -11,14 +11,11 @@
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
 
-### My Personal Website:
+## Reach Out!
 
 [<img align="left" alt="nuttchai.com" height="28.5px" src="./icons/nuttchai-web-btn.png" />][website]
 <br />
 
-### Reach Me:
-
-[<img align="left" alt="nuttchai.com" height="23px" src="./icons/world.png" />][website]
 [<img align="left" alt="nuttchai | LinkedIn" height="23px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="nuttchai | Facebook" height="23px" src="./icons/facebook.png" />][linkedin]
 [<img align="left" alt="nuttchai | Medium" height="23px" src="./icons/medium.png" />][linkedin]
