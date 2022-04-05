@@ -15,11 +15,13 @@
 
 [<img align="left" alt="nuttchai.com" height="28.5px" src="./icons/nuttchai-web-btn.png" />][website]
 [<img align="left" alt="nuttchai | LinkedIn" height="23px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="nuttchai | Facebook" height="23px" src="./icons/facebook.png" />][linkedin]
-[<img align="left" alt="nuttchai | Medium" height="23px" src="./icons/medium.png" />][linkedin]
+[<img align="left" alt="nuttchai | Facebook" height="23px" src="./icons/facebook.png" />][facebook]
+[<img align="left" alt="nuttchai | Medium" height="23px" src="./icons/medium.png" />][medium]
 
 [website]: https://www.nuttchai.com
 [linkedin]: https://www.linkedin.com/in/nuttchai/
+[facebook]: https://www.facebook.com/nchairatana
+[medium]: https://medium.com/nuttchai
 
 <!--
 **nuttchai/nuttchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
