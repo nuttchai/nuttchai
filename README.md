@@ -15,12 +15,12 @@
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
 <br />
 
-## 📫 Connect with me:
+### 📫 Connect with me:
 
-[<img align="left" alt="nuttchai.com" height="23px" src="./icons/world.png" />][website]
-[<img align="left" alt="nuttchai | LinkedIn" height="23px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="nuttchai | Facebook" height="23px" src="./icons/facebook.png" />][linkedin]
-[<img align="left" alt="nuttchai | Medium" height="23px" src="./icons/medium.png" />][linkedin]
+[<img align="left" alt="nuttchai.com" height="25px" src="./icons/world.png" />][website]
+[<img align="left" alt="nuttchai | LinkedIn" height="25px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="nuttchai | Facebook" height="25px" src="./icons/facebook.png" />][linkedin]
+[<img align="left" alt="nuttchai | Medium" height="25px" src="./icons/medium.png" />][linkedin]
 
 [website]: https://www.nuttchai.com
 [linkedin]: https://www.linkedin.com/in/nuttchai/
