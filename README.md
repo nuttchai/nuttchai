@@ -11,7 +11,7 @@
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
 
-## Reach Out!
+## 📫 Reach Out!
 
 [<img align="left" alt="nuttchai.com" height="24.5px" src="./icons/nuttchai-web-btn.png" />][website]
 [<img align="left" alt="nuttchai | LinkedIn" height="23px" src="./icons/linkedin.png" />][linkedin]
