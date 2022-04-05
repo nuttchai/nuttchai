@@ -1,4 +1,4 @@
-[<img align="left" alt="nuttchai.com" height="40.5px" src="./icons/nuttchai-web-btn.png" />][website]
+[<img align="left" alt="nuttchai.com" height="32.5px" src="./icons/nuttchai-web-btn.png" />][website]
 <br /><br />
 
 ## I'm a fresh software engineer!
