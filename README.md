@@ -21,7 +21,7 @@
 [website]: https://www.nuttchai.com
 [linkedin]: https://www.linkedin.com/in/nuttchai/
 [facebook]: https://www.facebook.com/nchairatana
-[medium]: https://medium.com/nuttchai
+[medium]: https://www.medium.com/nuttchai
 
 <!--
 **nuttchai/nuttchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
