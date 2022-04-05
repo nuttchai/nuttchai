@@ -14,8 +14,6 @@
 ## Reach Out!
 
 [<img align="left" alt="nuttchai.com" height="28.5px" src="./icons/nuttchai-web-btn.png" />][website]
-<br />
-
 [<img align="left" alt="nuttchai | LinkedIn" height="23px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="nuttchai | Facebook" height="23px" src="./icons/facebook.png" />][linkedin]
 [<img align="left" alt="nuttchai | Medium" height="23px" src="./icons/medium.png" />][linkedin]
