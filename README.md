@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[<img align="left" alt="nuttchai.com" height="21px" src="./icons/nuttchai-web-btn.png.png" />][website]
+[<img align="left" alt="nuttchai.com" height="21px" src="./icons/nuttchai-web-btn.png" />][website]
 <br />
 
 ## I'm a fresh software engineer!
