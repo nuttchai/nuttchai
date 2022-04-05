@@ -13,7 +13,6 @@
 
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
-<br />
 
 ### 📫 Connect with me:
 
