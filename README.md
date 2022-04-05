@@ -1,7 +1,8 @@
-[<img align="left" alt="nuttchai.com" height="40.5px" src="./icons/nuttchai-web-btn.png" />][website]
 <br />
+[<img align="left" alt="nuttchai.com" height="40.5px" src="./icons/nuttchai-web-btn.png" />][website]
+<br /><br />
 
-## 👋 Hi there, I'm a fresh software engineer!
+## I'm a fresh software engineer!
 
 - 🔭 I’m studying at King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my development skills!
