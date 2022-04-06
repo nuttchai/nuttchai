@@ -44,10 +44,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my [Medi
 
 My example articles:
 
-- [Principle of Computation and Application: Recursion](https://medium.com/@nuttchai/principle-of-computation-and-application-recursion-39ebf1fe0d88)
-- [Principle of Computation and Application: Hashing](https://medium.com/@nuttchai/principle-of-computation-and-application-hash-6965f15de2a0)
-- [Principle of Computation and Application: Tree](https://medium.com/@nuttchai/principle-of-computation-and-application-tree-1aaaefa51fdb)
-- [Principle of Computation and Application: Stack, Queue](https://medium.com/@nuttchai/principle-of-computation-and-application-stack-queue-37bbbb754a13)
+- ➰ [Principle of Computation and Application: Recursion](https://medium.com/@nuttchai/principle-of-computation-and-application-recursion-39ebf1fe0d88)
+- 🔑 [Principle of Computation and Application: Hashing](https://medium.com/@nuttchai/principle-of-computation-and-application-hash-6965f15de2a0)
+- 🌳 [Principle of Computation and Application: Tree](https://medium.com/@nuttchai/principle-of-computation-and-application-tree-1aaaefa51fdb)
+- 📚 [Principle of Computation and Application: Stack, Queue](https://medium.com/@nuttchai/principle-of-computation-and-application-stack-queue-37bbbb754a13)
 
 ## 📫 Reach Out!
 
