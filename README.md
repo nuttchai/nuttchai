@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning new technologies to support my development skills!
 - ✨ My dream is to be a great software engineer!
 - 🥅 2022 Goals: Contribute Open Source Projects & Create Shortest-Path Project
-  <br />
 
 ## 🔧 Technologies & Tools
 
@@ -37,6 +36,8 @@
 
 &nbsp;&nbsp;&nbsp; ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
+<br />
+&nbsp;&nbsp;&nbsp; [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nuttchai&count_private=true&theme=tokyonight&showicons=true)]()
 
 ## &#x270d; Blog & Writing
 
