@@ -33,6 +33,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=957dad)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=957dad)
 
+## 👯 GitHub Statistic
+
+&nbsp;&nbsp;&nbsp; ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
+![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
+
+## 📫 Reach Out!
+
+[<img align="left" alt="nuttchai.com" height="24.5px" src="./icons/nuttchai-web-btn.png" />][website]
+[<img align="left" alt="nuttchai | LinkedIn" height="23px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="nuttchai | Facebook" height="23px" src="./icons/facebook.png" />][facebook]
+[<img align="left" alt="nuttchai | Medium" height="23px" src="./icons/medium.png" />][medium]
+
+[website]: https://www.nuttchai.com
+[linkedin]: https://www.linkedin.com/in/nuttchai/
+[facebook]: https://www.facebook.com/nchairatana
+[medium]: https://www.medium.com/nuttchai
+
 <!--
 **nuttchai/nuttchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
