@@ -37,6 +37,11 @@
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## &#x270d; Blog & Writing
