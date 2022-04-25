@@ -36,6 +36,9 @@
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my [Medium][medium]
