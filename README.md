@@ -1,6 +1,6 @@
 ## 💬 Hi there, I'm a fresh software engineer!
 
-- 🔭 I’m studying at King Mongkut's Institute of Technology Ladkrabang
+- 🔭 I graduated from King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my development skills!
 - ✨ My dream is to be a great software engineer!
 - 🥅 2022 Goals: Contribute Open Source Projects & Create Shortest-Path Project
