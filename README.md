@@ -1,4 +1,4 @@
-## 💬 Hi there, I'm a fresh software engineer!
+## 💬 Hi there, I'm a fresh graduate software engineer!
 
 - 🔭 I graduated from King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my development skills!
