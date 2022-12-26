@@ -3,7 +3,7 @@
 - 🔭 I graduated from King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my development skills!
 - ✨ My dream is to be a great software engineer!
-- 🥅 2023 Goals: Create Shortest-Path project
+- 🥅 2023 Goals: Get AWS Solutions Architect Associate Certification!
 
 ## 🔧 Technologies & Tools
 
