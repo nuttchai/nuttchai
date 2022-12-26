@@ -48,7 +48,7 @@ Other        7 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## &#x270d; Blog & Writing
+## &#x270d; My Blogs
 
 Apart from coding, I also maintain a blog - you can find my articles on my [Medium][medium]
 
