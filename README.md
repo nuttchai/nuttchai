@@ -1,7 +1,7 @@
 ## 💬 Hi there, I'm Nutt, a fresh graduate software engineer!
 
 - 🔭 I graduated from King Mongkut's Institute of Technology Ladkrabang
-- 🌱 I’m currently learning new technologies to support my development skills!
+- 🌱 I’m currently learning new technologies to support my technical skills!
 - ✨ My dream is to be a great software engineer and solution architect!
 - 🥅 2023 Goals: Get AWS Solutions Architect Associate Certification!
 
