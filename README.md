@@ -46,7 +46,7 @@ No activity tracked
 
 ## &#x270d; My Blogs
 
-Apart from coding, I also maintain a blog - you can find my articles on my [Medium][medium]
+Apart from coding, I also maintain blogs - you can find my articles via my [Medium][medium]
 
 My example articles:
 
