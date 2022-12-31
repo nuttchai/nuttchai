@@ -44,7 +44,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## &#x270d; My Blogs
+## &#x270d; My Personal Blogs
 
 Apart from coding, I also maintain blogs - you can find the articles via my personal [Medium][medium]!
 
