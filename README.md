@@ -3,7 +3,12 @@
 - 🔭 I graduated from King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my technical skills!
 - ✨ My dream is to be a great software engineer and solution architect!
-- 🥅 2023 Goals: Get AWS Solutions Architect Associate Certification!
+- 🥅 2023 Goals: Get AWS Solutions Architect Professional Certification!
+
+## ✅ Checklist 2022
+
+- [x] Get AWS Solutions Architect Associate Certification
+- [ ] Get AWS Solutions Architect Professional Certification
 
 ## 🔧 Technologies & Tools
 
