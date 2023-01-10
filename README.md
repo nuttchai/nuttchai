@@ -5,7 +5,7 @@
 - ✨ My dream is to be a great software engineer and solution architect!
 - 🥅 2023 Goals: Get AWS Solutions Architect Professional Certification!
 
-## ✅ Checklist in 2023
+## ✅ To-Do Lists
 
 - [x] Get AWS Solutions Architect Associate Certification
 - [ ] Get AWS Solutions Architect Professional Certification
