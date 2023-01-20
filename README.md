@@ -1,4 +1,4 @@
-# 💬 Hi there, I'm Nutt, a passionate software engineer!
+# 💬 Hi there, I'm Nutt, a software engineer!
 
 - 🔭 I graduated from King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning new technologies to support my technical skills!
