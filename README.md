@@ -5,8 +5,6 @@
 - ✨ My career aspiration is to attain excellence as a software engineer and ultimately become a highly regarded solution architect
 - 🥅 2023 Goals: Obtain the AWS Solutions Architect Professional certification and further enhance my credentials in cloud computing
 
-- ~~test~~
-
 ## ✅ To-Do Lists in 2023
 
 - [x] ~~Obtain AWS Solutions Architect Associate Certification~~
