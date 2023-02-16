@@ -41,8 +41,7 @@
 ## 👯 GitHub Statistic
 
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg?exclude_repo=gamesale-prediction&langs_count=10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuttchai&layout=compact&exclude_repo=gamesale-prediction&langs_count=10)](https://github.com/nuttchai/github-readme-stats)
+![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg&exclude_repo=gamesale-prediction&langs_count=10)
 
 
 <!--START_SECTION:waka-->
