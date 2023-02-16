@@ -40,8 +40,10 @@
 
 ## 👯 GitHub Statistic
 
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
+<!-- ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
+![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg) -->
+[![NuttChai's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nuttchai&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)](https://github.com/nuttchai/github-readme-stats#gh-dark-mode-only)
+
 
 <!--START_SECTION:waka-->
 
