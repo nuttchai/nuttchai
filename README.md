@@ -42,7 +42,7 @@
 
 <!-- ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg) -->
-[![NuttChai's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nuttchai&show_icons=true&theme=dark&hide=contribs&count_private=true)](https://github.com/nuttchai/github-readme-stats)
+[![NuttChai's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nuttchai&show_icons=true&theme=dark&hide=contribs,issues&count_private=true)](https://github.com/nuttchai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuttchai&layout=compact&theme=dark)](https://github.com/nuttchai/github-readme-stats)
 
 
