@@ -42,7 +42,7 @@
 
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
 <!-- ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuttchai&layout=compact&theme=dark&exclude_repo=gamesale-prediction&hide=javascript,html,css&langs_count=10)](https://github.com/nuttchai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuttchai&layout=compact&exclude_repo=gamesale-prediction&langs_count=10)](https://github.com/nuttchai/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
