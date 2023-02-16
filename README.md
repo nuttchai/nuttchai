@@ -41,7 +41,7 @@
 ## 👯 GitHub Statistic
 
 ![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg?EXCLUDED_LANGS=jupyter&EXCLUDE_FORKED_REPOS =true&langs_count=10)
+![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg?EXCLUDED_LANGS=jupyter&EXCLUDE_FORKED_REPOS=true&langs_count=10)
 
 
 <!--START_SECTION:waka-->
