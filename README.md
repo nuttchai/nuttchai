@@ -40,9 +40,8 @@
 
 ## 👯 GitHub Statistic
 
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/nuttchai/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nuttchai/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
 
