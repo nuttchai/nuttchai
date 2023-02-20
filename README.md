@@ -1,9 +1,9 @@
-# 💬 Hi there, I'm Nutt, a fresh software engineer!
+# 💬 Hi there, I'm Nutt, a software engineer!
 
-- 🔭 I successfully completed my studies at King Mongkut's Institute of Technology Ladkrabang in the year 2022
-- 🌱 I am actively pursuing opportunities for professional growth and expanding my technical skill set through the acquisition of new technologies
+- 🔭 I successfully completed my studies at King Mongkut's Institute of Technology Ladkrabang!
+- 🌱 I am actively pursuing opportunities for professional growth and expanding my technical skill!
 - ✨ My career aspiration is to attain excellence as a software engineer and ultimately become a highly regarded solution architect
-- 🥅 2023 Goals: Obtain the AWS Solutions Architect Professional certification and further enhance my credentials in cloud computing
+- 🥅 2023 Goals: Obtain the AWS Solutions Architect Professional certification and further enhance my technical skills
 
 ## ✅ To-Do Lists in 2023
 
