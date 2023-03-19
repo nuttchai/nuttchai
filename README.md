@@ -23,6 +23,7 @@
 <br />
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=957dad)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=957dad)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=957dad)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=957dad)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=957dad)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=957dad)
@@ -30,6 +31,8 @@
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=957dad)
 ![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=957dad)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=957dad)
+![](https://img.shields.io/badge/Tools-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=957dad)
+![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=957dad)
 
 ## 👯 GitHub Statistic
 
