@@ -1,9 +1,18 @@
-## 💬 Hi there, I'm a fresh software engineer!
+# 💬 Hi there, I'm Nutt, a software engineer!
 
-- 🔭 I’m studying at King Mongkut's Institute of Technology Ladkrabang
-- 🌱 I’m currently learning new technologies to support my development skills!
-- ✨ My dream is to be a great software engineer!
-- 🥅 2022 Goals: Contribute Open Source Projects & Create Shortest-Path Project
+- 🔭 I successfully completed my studies at King Mongkut's Institute of Technology Ladkrabang!
+- 🌱 I am actively pursuing opportunities for professional growth and expanding my technical skill!
+- ✨ My career aspiration is to attain excellence as a software engineer and ultimately become a highly regarded solution architect
+- 🥅 2023 Goals: Obtain the AWS Solutions Architect Professional certification and further enhance my technical skills
+
+## ✅ To-Do Lists in 2023
+
+- [x] ~~Obtain AWS Solutions Architect Associate Certification~~
+- [ ] Obtain AWS Solutions Architect Professional Certification
+- [ ] Obtain Kubernetes Certified Application Developer (CKAD)
+- [ ] Obtain Certified Kubernetes Administrator (CKA)
+- [ ] Learn to build Golang module
+- [ ] Learn to create enterprise-based Golang unit test
 
 ## 🔧 Technologies & Tools
 
@@ -36,15 +45,34 @@
 
 ## 👯 GitHub Statistic
 
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/overview.svg)
-![](https://github.com/nuttchai/GitHubStatistic/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/nuttchai/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nuttchai/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 April 2022 - To: 17 March 2023
+
+Total Time: 299 hrs 52 mins
+
+Go                116 hrs 32 mins >>>>>>>>>>---------------   38.86 %
+JavaScript        38 hrs 1 min    >>>----------------------   12.68 %
+TypeScript        33 hrs 45 mins  >>>----------------------   11.26 %
+YAML              30 hrs 33 mins  >>>----------------------   10.19 %
+Markdown          16 hrs 51 mins  >------------------------   05.62 %
+SQL               10 hrs 53 mins  >------------------------   03.63 %
+HTML              10 hrs 34 mins  >------------------------   03.53 %
+Bash              9 hrs 24 mins   >------------------------   03.14 %
+CSS               9 hrs 23 mins   >------------------------   03.13 %
+JSON              5 hrs 44 mins   -------------------------   01.92 %
+Other             4 hrs 27 mins   -------------------------   01.49 %
+```
+
 <!--END_SECTION:waka-->
 
-## &#x270d; Blog & Writing
+## &#x270d; Personal Blogs
 
-Apart from coding, I also maintain a blog - you can find my articles on my [Medium][medium]
+Apart from coding, I also maintain blogs - you can find the articles via my personal [Medium][medium]!
 
 My example articles:
 
