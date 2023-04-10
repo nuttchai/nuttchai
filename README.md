@@ -7,8 +7,8 @@
 
 ## ✅ To-Do Lists in 2023
 
-- [x] ~~Learn to create enterprise-based Golang unit test~~
 - [x] ~~Obtain AWS Solutions Architect Associate Certification~~
+- [x] ~~Learn to create enterprise-based Golang unit test~~
 - [ ] Obtain AWS Solutions Architect Professional Certification
 - [ ] Obtain Kubernetes Certified Application Developer (CKAD)
 - [ ] Obtain Certified Kubernetes Administrator (CKA)
