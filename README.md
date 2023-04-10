@@ -12,7 +12,7 @@
 - [ ] Obtain Kubernetes Certified Application Developer (CKAD)
 - [ ] Obtain Certified Kubernetes Administrator (CKA)
 - [ ] Learn to build Golang module
-- [x] Learn to create enterprise-based Golang unit test
+- [x] ~~Learn to create enterprise-based Golang unit test~~
 
 ## 🔧 Technologies & Tools
 
