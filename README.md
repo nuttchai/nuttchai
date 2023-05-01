@@ -11,6 +11,7 @@
 - [x] ~~Learn to create enterprise-based Golang unit test~~
 - [ ] Obtain AWS Solutions Architect Professional Certification
 - [ ] Obtain Kubernetes Certified Application Developer (CKAD)
+- [ ] Complete System Design Interview – An Insider’s Guide -- Book by Alex Xu
 
 ## 🔧 Technologies & Tools
 
