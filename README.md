@@ -11,8 +11,6 @@
 - [x] ~~Learn to create enterprise-based Golang unit test~~
 - [ ] Obtain AWS Solutions Architect Professional Certification
 - [ ] Obtain Kubernetes Certified Application Developer (CKAD)
-- [ ] Obtain Certified Kubernetes Administrator (CKA)
-- [ ] Learn to build Golang module
 
 ## 🔧 Technologies & Tools
 
