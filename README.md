@@ -81,7 +81,7 @@ My example articles:
 
 ## 📫 Reach Out!
 
-[<img align="left" alt="nuttchai.com" height="24.5px" src="./icons/nuttchai-web-btn.png" />][website]
+[<img align="left" alt="nuttchai.com" height="24.5px" src="./icons/world.png" />][website]
 [<img align="left" alt="nuttchai | GitLab" height="23px" src="./icons/gitlab.png" />][gitlab]
 [<img align="left" alt="nuttchai | LinkedIn" height="23px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="nuttchai | Facebook" height="23px" src="./icons/facebook.png" />][facebook]
