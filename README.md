@@ -70,7 +70,7 @@ CSS               9 hrs 23 mins   >------------------------   02.21 %
 
 ## &#x270d; Personal Blogs
 
-Apart from coding, I also maintain blogs - you can find the articles via my personal [Medium][medium]!
+Apart from coding, I also maintain blogs - you can find the articles via my personal [blog][medium]!
 
 My example articles:
 
