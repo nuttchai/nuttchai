@@ -51,20 +51,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2022 - To: 27 November 2023
+From: 24 April 2022 - To: 28 November 2023
 
-Total Time: 533 hrs 10 mins
+Total Time: 534 hrs 25 mins
 
-Go                166 hrs 16 mins >>>>>>>>-----------------   31.19 %
-Python            134 hrs 42 mins >>>>>>-------------------   25.27 %
-TypeScript        52 hrs 6 mins   >>-----------------------   09.77 %
-JavaScript        38 hrs 20 mins  >>-----------------------   07.19 %
-YAML              33 hrs 51 mins  >>-----------------------   06.35 %
-Markdown          20 hrs 31 mins  >------------------------   03.85 %
-CSV               12 hrs 46 mins  >------------------------   02.40 %
-SQL               12 hrs 5 mins   >------------------------   02.27 %
+Go                166 hrs 16 mins >>>>>>>>-----------------   31.11 %
+Python            135 hrs 57 mins >>>>>>-------------------   25.44 %
+TypeScript        52 hrs 6 mins   >>-----------------------   09.75 %
+JavaScript        38 hrs 20 mins  >>-----------------------   07.17 %
+YAML              33 hrs 51 mins  >>-----------------------   06.34 %
+Markdown          20 hrs 31 mins  >------------------------   03.84 %
+CSV               12 hrs 46 mins  >------------------------   02.39 %
+SQL               12 hrs 5 mins   >------------------------   02.26 %
 HTML              11 hrs 25 mins  >------------------------   02.14 %
-Bash              9 hrs 40 mins   -------------------------   01.82 %
+Bash              9 hrs 40 mins   -------------------------   01.81 %
 ```
 
 <!--END_SECTION:waka-->
