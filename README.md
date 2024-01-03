@@ -7,8 +7,8 @@
 
 ## ✅ To-Do Lists
 
-- [x] ~~Obtain AWS Solutions Architect Associate Certification~~
-- [x] ~~Learn to create enterprise-based Golang unit test~~
+- [x] Publish the proceeding article
+- [ ] Publish the journal paper
 - [ ] Initiate open-source contribution
 - [ ] Obtain AWS Solutions Architect Professional Certification
 - [ ] Obtain Kubernetes Certified Application Developer (CKAD)
