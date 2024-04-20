@@ -1,4 +1,4 @@
-# 💬 Hi there, I'm Nutt, a machine learning engineer!
+# 💬 Hi there, I'm Nutt, a Software Engineer (Machine Learning)!
 
 - 🔭 I successfully completed my studies at King Mongkut's Institute of Technology Ladkrabang!
 - 🌱 I am actively pursuing opportunities for professional growth and expanding my technical skills!
