@@ -1,9 +1,9 @@
-# 💬 Hi there, I'm Nutt, a Software Engineer (ML&AI)!
+# 💬 Hi there, I'm Nutt, a Software Engineer!
 
-- 🔭 I successfully completed my studies at King Mongkut's Institute of Technology Ladkrabang!
+- 🔭 I completed my studies at King Mongkut's Institute of Technology Ladkrabang!
 - 🌱 I am actively pursuing opportunities for professional growth and expanding my technical skills!
-- ✨ My career aspiration is to attain excellence as a machine learning engineer while also gaining experience as a software engineer!
-- 🥅 2024 Goals: Complete my master's degree in Robotics and AI Engineer and further enhance my technical skills with my startup idea!
+- ✨ My career aspiration is to attain excellence as a machine learning engineer while gaining experience as a software engineer!
+- 🥅 2024 Goals: Complete my master's degree in Robotics and AI Engineering and further enhance my technical skills with my startup idea!
 
 ## ✅ To-Do Lists
 
