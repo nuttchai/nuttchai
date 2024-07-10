@@ -9,7 +9,7 @@
 
 - [x] Publish the proceeding article
 - [x] Publish the journal paper
-- [ ] Initiate open-source contribution
+- [x] Initiate open-source contribution
 - [ ] Obtain Kubernetes Certified Application Developer (CKAD)
 - [ ] Complete System Design Interview – An Insider’s Guide -- Book by Alex Xu
 
