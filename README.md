@@ -5,13 +5,12 @@
 - ✨ My career aspiration is to attain excellence as a machine learning engineer while gaining experience as a software engineer!
 - 🥅 2024 Goals: Complete my master's degree in Robotics and AI Engineering and further enhance my technical skills with my startup idea!
 
-## ✅ To-Do Lists
+## ✅ 2024 To-Do Lists
 
 - [x] Publish the proceeding article
 - [x] Publish the journal paper
 - [x] Initiate open-source contribution
-- [ ] Obtain Kubernetes Certified Application Developer (CKAD)
-- [ ] Complete System Design Interview – An Insider’s Guide -- Book by Alex Xu
+- [x] Complete System Design Interview – An Insider’s Guide -- Book by Alex Xu
 
 ## 🔧 Technologies & Tools
 
