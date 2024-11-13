@@ -8,11 +8,15 @@
 
 ## ✅ 2024 To-Do Lists
 
-- [x] Publish the proceeding article
-- [x] Publish the journal paper
-- [x] Initiate open-source contribution
+- [x] Publish a Proceeding Article
+- [x] Publish a Journal Paper
+- [x] Initiate Open-source Contribution
 - [x] Complete System Design Interview – An Insider’s Guide -- Book by Alex Xu
 - [x] Complete Master's Degree in Robotics and AI Engineering
+
+## ✅ 2025 To-Do Lists
+
+- [ ] Open Startup!
 
 ## 🔧 Technologies & Tools
 
