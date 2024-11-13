@@ -12,7 +12,7 @@
 - [x] Publish the journal paper
 - [x] Initiate open-source contribution
 - [x] Complete System Design Interview – An Insider’s Guide -- Book by Alex Xu
-- [x] Complete my master's degree in Robotics and AI Engineering
+- [x] Complete Master's Degree in Robotics and AI Engineering
 
 ## 🔧 Technologies & Tools
 
