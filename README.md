@@ -1,9 +1,10 @@
 # 💬 Hi there, I'm Nutt, a Software Engineer!
 
 - 🔭 I completed my studies at King Mongkut's Institute of Technology Ladkrabang!
+  - Bachelor's degree in Computer Engineering, focusing on Computer Innovation Engineering
+  - Master’s in Robotics and AI Engineering, specializing in Robotics and Computational Intelligence Systems 
 - 🌱 I am actively pursuing opportunities for professional growth and expanding my technical skills!
-- ✨ My career aspiration is to attain excellence as a machine learning engineer while gaining experience as a software engineer!
-- 🥅 2024 Goals: Complete my master's degree in Robotics and AI Engineering and further enhance my technical skills with my startup idea!
+- ✨ My career aspiration is to attain excellence as a software engineer with machine learning skills!
 
 ## ✅ 2024 To-Do Lists
 
@@ -11,6 +12,7 @@
 - [x] Publish the journal paper
 - [x] Initiate open-source contribution
 - [x] Complete System Design Interview – An Insider’s Guide -- Book by Alex Xu
+- [x] Complete my master's degree in Robotics and AI Engineering
 
 ## 🔧 Technologies & Tools
 
