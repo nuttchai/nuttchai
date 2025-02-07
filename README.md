@@ -1,4 +1,4 @@
-# 💬 Hi there, I'm Nutt, a Software Engineer!
+# 💬 Hi there, I'm Nutt, a Software Engineer (Machine Learning)!
 
 - 🔭 I completed my studies at King Mongkut's Institute of Technology Ladkrabang!
   - Bachelor's degree in Computer Engineering, focusing on Computer Innovation Engineering
