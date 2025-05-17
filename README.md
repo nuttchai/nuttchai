@@ -1,8 +1,8 @@
 # 💬 Hi there, I'm Nutt, a Machine Learning Engineer!
 
 - 🔭 I completed my studies at King Mongkut's Institute of Technology Ladkrabang!
-  - Bachelor in Computer Engineering (Program: Computer Engineering, Computer Innovation Engineering)
-  - Master in Artificial Intelligence (Program: Robotics and AI Engineering, Robotics and Computational Intelligence Systems)
+  - 2022 - 2024: Master in Artificial Intelligence (Program: Robotics and AI Engineering, Robotics and Computational Intelligence Systems)
+  - 2018 - 2022: Bachelor in Computer Engineering (Program: Computer Engineering, Computer Innovation Engineering)
 - 🌱 I am actively pursuing opportunities for professional growth and expanding my technical skills!
 - ✨ My career aspiration is to attain excellence as a software engineer with machine learning skills!
 
