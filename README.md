@@ -55,15 +55,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2022 - To: 31 August 2025
+From: 24 April 2022 - To: 01 September 2025
 
-Total Time: 735 hrs
+Total Time: 735 hrs 33 mins
 
-Python            241 hrs 38 mins >>>>>>>>-----------------   32.88 %
-Go                197 hrs 28 mins >>>>>>>------------------   26.87 %
-TypeScript        72 hrs 2 mins   >>-----------------------   09.80 %
-JavaScript        43 hrs 19 mins  >------------------------   05.90 %
-YAML              36 hrs 9 mins   >------------------------   04.92 %
+Python            241 hrs 38 mins >>>>>>>>-----------------   32.85 %
+Go                198 hrs 1 min   >>>>>>>------------------   26.92 %
+TypeScript        72 hrs 2 mins   >>-----------------------   09.79 %
+JavaScript        43 hrs 19 mins  >------------------------   05.89 %
+YAML              36 hrs 9 mins   >------------------------   04.91 %
 Markdown          28 hrs 37 mins  >------------------------   03.89 %
 CSV               24 hrs 6 mins   >------------------------   03.28 %
 CSS               14 hrs 5 mins   -------------------------   01.92 %
