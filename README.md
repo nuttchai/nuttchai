@@ -1,4 +1,4 @@
-# 💬 Hi there, I'm Nutt, a Machine Learning Engineer!
+# 💬 Hi there, I'm Nutt, a Software Engineer!
 
 - 🔭 I completed my studies at King Mongkut's Institute of Technology Ladkrabang!
   - 2022 - 2024: Master's in Artificial Intelligence
